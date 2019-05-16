@@ -1,4 +1,4 @@
-(function() {
+;(function() {
 
   // Hide preloader
   window.onload = function () {
@@ -407,4 +407,4 @@
   });
 
 
-}())
+}());
